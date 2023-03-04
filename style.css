@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.parent {
+  display:flex;
+  justify-content: space-evenly;
+}
+.name{
+  padding: 5x;
+    font-size: 200%;
+  font-family: serif;
+  font-style: oblique;
+  text-decoration: ;
+
+  
+}
+
+.navBar {
+  display:flex;
+  justify-content: space-around;
+/*  border: solid grey 3px; */
+  padding: 5px;
+  border: 5px solid #878282;
+  background-color: #c3b6b6;
+}
+.foodCategory {
+  font-family: monospace;
+  text-decoration: none!important;
+  font-size: 20px;
+  
+  
+
+}
+
+
+.menuButton {
+  width: 35px;
+  height: 35px;
+  
+}
+
+img{
+  padding: 20px
+}
+.searchButtton{
+  background-color: #c3b6b6; /* Green */
+  color: white;
+  padding: 8px;
+  border: 10px white;
+  border-radius: 4px;
+}
+.recommendation{
+  text-align:center;
+  font-family: monospace;
+}
+
+.budget{
+  padding:20px  ;
+  border: 10px double black ;
+  
+}
+.carousel-inner {
+  margin: auto;
+}
